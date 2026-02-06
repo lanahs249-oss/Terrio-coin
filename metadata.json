@@ -1,7 +1,7 @@
 {
-  "name": "Terrio Token",
+  "name": "Terrio Coin",
   "symbol": "TRIO",
-  "description": "Terrio Token (TRIO) is a Solana-based utility token designed to support digital ecosystem development, technological innovation, and the sustainable adoption of blockchain technology through transparency and efficiency.",
+  "description": "Terrio Coin (TRIO) is a Solana-based utility token designed to support digital ecosystem development, technological innovation, and the sustainable adoption of blockchain technology through transparency and efficiency.",
   "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/lanahs249-oss/Terrio-coin/main/terrio.png",
   "external_url": "https://github.com/lanahs249-oss/Terrio-coin",
@@ -28,3 +28,4 @@
     ]
   }
 }
+
